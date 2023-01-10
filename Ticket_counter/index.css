@@ -1,0 +1,57 @@
+#ticket
+{
+    height: 250px;
+    width:250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-style:solid;
+}
+.center{
+    margin-top: 40px;
+    text-align: center;
+    color: brown;
+}
+#increment_btn
+{
+  height: 35px;
+  width: 105px;
+  margin: auto;
+  margin-top: 12px;
+  display:grid;
+  color: white;
+  text-decoration: solid;
+  align-items: center;
+  background-color: green;
+  border-color: green;
+  border-radius: 3px;
+}
+#incr-val{
+ text-align: center;
+}
+
+h5{
+
+  color: rgb(11, 11, 236);
+  text-align: center;
+}
+
+#save-btn
+{
+display: grid;
+margin:auto;
+margin-top: 3px;
+background-color: darkred;
+color: white;
+text-decoration: solid;
+border: 2px;
+width: 106px;
+height: 28px;
+align-items: center;
+}
+#count-str
+{ 
+  margin-top: 10px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
